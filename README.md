@@ -15,7 +15,7 @@ The dataset consists of trading history, including **buy/sell transactions, prof
 ### **Step 1: Clone the Repository**
 To download and run this project locally, use:
 ```bash
-git clone <GitHub_Repository_URL>
+git clone https://github.com/KritPrasad05/Primetrade.ai._Internship_Task.git
 cd Trade_Ranking_System
 ```
 
@@ -72,12 +72,12 @@ Trained on historical data, the model predicts rankings based on learned pattern
 
 ### **Step 1: Run the Python Script**
 ```bash
-python primetrade_ai.py
+python Primetrade.ai.py
 ```
 Or, if using Jupyter Notebook:
 ```bash
 jupyter notebook
-# Open Primetrade_ai.ipynb and run cells sequentially.
+# Open Primetrade.ai.ipynb and run cells sequentially.
 ```
 
 ### **Step 2: View Rankings**
